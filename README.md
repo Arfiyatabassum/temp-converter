@@ -1,4 +1,4 @@
- # Temperature convertor
+ # Temperature converter
 
  In this project, we will see Temperature Conversion between Celsius, Fahrenheit & Kelvin using HTML CSS & JavaScript. The Temperature is generally measured in terms of unit degree., i.e. in degree centigrade, in degrees, Fahrenheit & Kelvin.
 
